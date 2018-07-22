@@ -4,6 +4,12 @@
         padding-top: 56px;
       }
     }
+
+    #logoImg{
+        height: 100px;
+    width: 100px;
+    margin-top: 180px;
+    }
 /* Full-width input fields */
 input[type=text], input[type=password] {
     width: 100%;
